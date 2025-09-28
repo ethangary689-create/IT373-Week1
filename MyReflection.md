@@ -1,4 +1,4 @@
-# Reflection on Setup Process
+# My Reflection During The Setup Process
 
 Setting up the Django project was mostly straightforward, but I ran into a few challenges. First, I had an issue where **Python wasn't properly linked** to the terminal. This was fixed by updating my system PATH.
 
